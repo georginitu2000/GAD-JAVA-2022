@@ -1,4 +1,6 @@
-public class Main {
+package lab1;
+
+public class ch1 {
     public static void main(String[] args) {
         for(int i=1;i<=100;i++)
         {
